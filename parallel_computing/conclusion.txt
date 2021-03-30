@@ -1,0 +1,1 @@
+The parallel computing project propose 2 ways of parallel QuickSort 

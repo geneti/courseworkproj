@@ -1,0 +1,28 @@
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 1 processors takes 0.012898
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 2 processors takes 0.017534
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 4 processors takes 0.018821
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 8 processors takes 0.037859
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 16 processors takes 16.694173
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 32 processors takes 1.214909
+The dataspace length is:10000
+Read H5 successfully
+Correct order with 0 errors
+Quicksort OMP 10000 parallel algorithm on 64 processors takes 2.247199

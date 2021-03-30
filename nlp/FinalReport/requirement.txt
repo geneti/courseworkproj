@@ -1,0 +1,15 @@
+matplotlib
+future
+gensim
+librosa
+nltk
+numpy
+pandas
+requests
+regex
+sklearn
+seaborn
+textdistance
+pytorch
+tqdm
+wheel

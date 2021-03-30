@@ -1,0 +1,14 @@
+read h5 successfully
+Quicksort 1000000 ints on 1 procs: 0.754826 secs
+read h5 successfully
+Quicksort 1000000 ints on 2 procs: 0.210867 secs
+read h5 successfully
+Quicksort 1000000 ints on 4 procs: 0.068128 secs
+read h5 successfully
+Quicksort 1000000 ints on 8 procs: 0.028485 secs
+read h5 successfully
+Quicksort 1000000 ints on 16 procs: 0.017803 secs
+read h5 successfully
+Quicksort 1000000 ints on 32 procs: 0.039132 secs
+read h5 successfully
+Quicksort 1000000 ints on 64 procs: 0.066470 secs
